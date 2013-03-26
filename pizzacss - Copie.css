@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	
+}
+
+#Listepizza
+{
+	
+}
+.pizza {
+ border:1px solid orange;
+ font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+ margin:10px 10px;
+ border-radius:10px;
+ width:200px;
+ }
